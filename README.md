@@ -1,1 +1,1 @@
-- A repo for my educational ai notebooks
+- A repo for my educational ai notebooks (Primarily based on Andrej Karpathy's Micrograd)
