@@ -1,1 +1,3 @@
-- A repo for my educational ai notebooks (Primarily based on Andrej Karpathy's Micrograd)
+- A repo for my educational AI notebooks.
+- These files teach the basics of neural networks to beginners with minimal Python experience. 
+- Files with "_mg" appended to the filename are based on Andrej Karpathy's Micrograd.
